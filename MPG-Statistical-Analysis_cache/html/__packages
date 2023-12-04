@@ -1,0 +1,16 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+ggplot2
+GGally
+dplyr
+carData
+car
+broom
+printr
+pander
+kableExtra
